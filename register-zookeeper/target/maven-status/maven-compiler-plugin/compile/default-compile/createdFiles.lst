@@ -1,0 +1,4 @@
+register\zookeeper\ZooKeeperServiceDiscovery.class
+register\zookeeper\ZooKeeperServiceRegistry.class
+register\zookeeper\Constant.class
+register\zookeeper\ZooKeeperServiceRegistry_curator.class

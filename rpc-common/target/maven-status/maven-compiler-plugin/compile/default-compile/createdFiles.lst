@@ -1,0 +1,7 @@
+common\bean\RpcRequest.class
+common\codec\RpcEncoder.class
+common\bean\RpcResponse.class
+common\util\CollectionUtil.class
+common\util\StringUtil.class
+common\codec\RpcDecoder.class
+common\util\SerializationUtil.class
